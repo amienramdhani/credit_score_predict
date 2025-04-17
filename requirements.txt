@@ -1,8 +1,8 @@
-joblib==1.4.2
-matplotlib==3.10.0
-matplotlib-inline==0.1.7
-matplotlib-venn==1.1.2
-numpy==2.0.2
-pandas==2.2.2
-seaborn==0.13.2
-sklearn==1.6.1
+joblib
+matplotlib
+matplotlib-inline
+matplotlib-venn
+numpy
+pandas
+seaborn
+sklearn
